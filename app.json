@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "StickerSmash",
-    "slug": "StickerSmash",
+    "name": "FSTracker",
+    "slug": "fst-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "stickersmash",
+    "scheme": "fsttracker",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {

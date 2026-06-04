@@ -36,6 +36,16 @@ yarn-error.*
 # typescript
 *.tsbuildinfo
 
+# IDEs / Editors
+.idea/
+.vscode/
+*.iml
+
+# Optional editor files
+.history/
+*.swp
+*.swo
+
 app-example
 
 # generated native folders
